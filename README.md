@@ -11,12 +11,10 @@ Currently working as a **Software Developer at Obsidian Leadership Development C
 
 ## Featured Projects
 
-- **[Enlight](https://github.com/arkaazattar/enlight-htn2026)** — AI-powered visual memory assistant built at **Hack the North 2026**, combining real-time face recognition, persistent identity tracking, live transcription, contextual memory extraction, and location-aware features.  
-  `Python` `OpenCV` `FastAPI` `MongoDB` `Next.js` `Gemini`
-
 - **[ClashRecruit](https://github.com/arkaazattar/ClashRecruit)** — Full-stack Clash of Clans recruitment platform deployed on **AWS EC2**, with authenticated listing management, background processing, API caching, and a live directory of 350+ recruitment listings.  
   `Python` `Flask` `React` `MongoDB` `Celery` `AWS`
-
+- **[Enlight](https://github.com/arkaazattar/enlight-htn2026)** — AI-powered visual memory assistant built at **Hack the North 2026**, combining real-time face recognition, persistent identity tracking, live transcription, contextual memory extraction, and location-aware features.  
+  `Python` `OpenCV` `FastAPI` `MongoDB` `Next.js` `Gemini`
 - **[WatchDog](https://github.com/Pythoneers-Dev-0-2025-2026/WatchDog)** — Cross-device workstation security system that placed **2nd Overall at Dev0**, using persistent desktop-mobile communication, computer vision, remote locking, and multi-stage threat confirmation.  
   `Python` `Kotlin` `WebSockets` `OpenCV`
 
