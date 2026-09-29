@@ -2,7 +2,7 @@
 
 Computer Systems Engineering student at **Carleton University** interested in software engineering, backend development, computer vision, and computer systems.
 
-Currently working as a **Software Developer at Obsidian Leadership Development Centre** and building projects across full-stack development, cloud infrastructure, and computer vision.
+Currently working as a **Software Developer at Obsidian Leadership Development Centre** and building projects across full-stack development, backend systems, and cloud infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=googlechrome&logoColor=white)](https://arkaazattar.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkaazattar)
